@@ -1,4 +1,4 @@
-LinkedIn Clone - Job Search Platform
+ Job Search Platform
 A simple LinkedIn-inspired web application built using HTML, CSS, and JavaScript that enables users to search for jobs based on provided information. This project simulates essential functionalities of LinkedIn to help job seekers find suitable job listings based on their skills, location, and other details.
 
 Table of Contents
